@@ -1,6 +1,6 @@
 # Student Management
 
-Aplikasi web sederhana berbasis ReactJS untuk menampilkan daftar data mahasiswa dalam bentuk tabel serta informasi jam digital yang berjalan secara real-time.
+Aplikasi web sederhana berbasis ReactJS (Vite) untuk menampilkan daftar data mahasiswa dalam bentuk tabel serta informasi jam digital yang berjalan secara real-time.
 
 ## Fitur Utama
 - **Data Mahasiswa:** Menampilkan 10 data mahasiswa menggunakan `useState` dan fungsi `.map()`.
