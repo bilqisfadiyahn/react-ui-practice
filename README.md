@@ -1,7 +1,13 @@
-# Student Management (React UI Practice)
+# Student Management
 
-Aplikasi web sederhana menggunakan ReactJS (Vite) untuk menampilkan daftar data mahasiswa dan jam digital secara real-time.
+Aplikasi web sederhana berbasis ReactJS untuk menampilkan daftar data mahasiswa dalam bentuk tabel serta informasi jam digital yang berjalan secara real-time.
 
 ## Fitur Utama
-- **Daftar Data Mahasiswa**: Menampilkan 10 data mahasiswa dalam bentuk tabel menggunakan `useState` dan `.map()`.
-- **Live Digital Clock**: Menampilkan waktu saat ini yang diperbarui setiap detik menggunakan `useEffect` dan `setInterval`.
+- **Data Mahasiswa:** Menampilkan 10 data mahasiswa menggunakan `useState` dan fungsi `.map()`.
+- **Informasi Jumlah Mahasiswa:** Menghitung total data mahasiswa secara dinamis.
+- **Jam Digital Real-Time:** Memperbarui tampilan waktu setiap detik menggunakan `useEffect` dan `setInterval`.
+
+## Teknologi yang Digunakan
+- ReactJS (Vite)
+- JavaScript (ES6+)
+- Vanilla CSS
